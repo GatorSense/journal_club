@@ -4,15 +4,15 @@ Welcome to the Fall 2023 Journal Club directory! This directory is dedicated to 
 
 ## Contents
 
-- [Papers](papers/)
+- [Papers file](papers.md)
 - [Meeting Notes Google Doc](https://docs.google.com/document/d/1B8HTBYQLovP55R07akOE_gz1P-uguInsxhTYUjTDmhw/edit?usp=sharing)
 - [Resources](resources/)
-- [Schedule](schedule.md)
+- [Schedule file](schedule.md)
 - [Readme](readme.md)
 
 ## Papers
 
-In the [papers](papers/) directory, you'll find a collection of papers discussed in our journal club meetings during Fall 2023. Each week, we'll upload the paper that will be discussed during the upcoming meeting. 
+In the [papers file](papers.md), you'll find a collection of papers discussed in our journal club meetings during Fall 2023. Each week, we'll upload the link/references to the paper that will be discussed during the upcoming meeting. 
 
 ## Meeting Notes
 
