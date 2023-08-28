@@ -8,7 +8,7 @@ Welcome to the Fall 2023 Journal Club directory! This directory is dedicated to 
 - [Meeting Notes](meeting-notes/)
 - [Resources](resources/)
 - [Schedule](schedule.md)
-- [Readme](Readm.md)
+- [Readme](readme.md)
 
 ## Papers
 
