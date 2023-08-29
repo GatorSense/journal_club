@@ -12,7 +12,7 @@
 
 # Gatorsense Journal Club
 
-| S. No.| Date       | Presenter #1 |
+| S. No.| Date       | Presenter |
 |-------|------------|--------------|
 | 1     | 09/18/2023 | Ritesh Chowdhry |
 | 2     | 10/02/2023 | Austin Kreulach |
