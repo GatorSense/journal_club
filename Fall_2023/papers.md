@@ -4,7 +4,15 @@
 ## Table of Contents
 1. [Overall Comments](#overall-comments)
 2. [Some Keywords to Understand](#some-keywords-to-understand)
-5. [Additional Resources](#additional-resources)
+3. [Presenters' Challenge: "Meaningful UQ"](#presenters-challenge-meaningful-uq)
+4. [Uncertainty Quantification Fundamentals](#uncertainty-quantification-fundamentals)
+5. [Current Methodologies](#current-methodologies)
+    1. [Safety-Critical Tasks](#safety-critical-tasks)
+    1. [Structural Health Monitoring](#structural-health-monitoring)
+    1. [Remote Sensing](#remote-sensing)
+    1. [Medical](#medical)
+6. [Future Directions and Possibilities](#future-directions-and-possibilities)
+8. [Additional Resources](#additional-resources)
 
 ## Overall Comments
 - Most papers were pulled from references in the survey by Abdar et al. below. There is an additional survey by Gawlikowski that provided more recent works. See the Additional Resources section below for both.
@@ -26,6 +34,7 @@
 If it’s not completely obvious in a paper, **the presenters** are challenged to address the following question in their presentation: _How might we translate the Bayesian, ensemble, and theoretical metrics into more meaningful UQ metrics for our labs’ particular applications?_
 
 ## Uncertainty Quantification Fundamentals
+
 1. Y. Gal and Z. Ghahramani, “Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning,” in Proceedings of The 33rd International Conference on Machine Learning, M. F. Balcan and K. Q. Weinberger, Eds., in Proceedings of Machine Learning Research, vol. 48. New York, New York, USA: PMLR, 20--22 Jun 2016, pp. 1050–1059.
 2. M. Teye, H. Azizpour, and K. Smith, “Bayesian Uncertainty Estimation for Batch Normalized Deep Networks,” in Proceedings of the 35th International Conference on Machine Learning, J. Dy and A. Krause, Eds., in Proceedings of Machine Learning Research, vol. 80. PMLR, 10--15 Jul 2018, pp. 4907–4916.
 3. R. Zhang, C. Li, J. Zhang, C. Chen, and A. G. Wilson, “Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning,” arXiv [cs.LG], Feb. 11, 2019. [Online]. Available: http://arxiv.org/abs/1902.03932
@@ -40,13 +49,12 @@ Note: This isn’t well-cited but demonstrates a way to combine two techniques. 
 10. Ovadia Y, Fertig E, Ren J, Nado Z, Sculley D, Nowozin S, Dillon J, Lakshminarayanan B, Snoek J, “Can you trust your model’s uncertainty? Evaluating predictive uncertainty under dataset shift,” in Advances in neural information processing systems 32, 2019.
 
 ## Current Methodologies
+
 11. G. Wang, W. Li, M. Aertsen, J. Deprest, S. Ourselin, and T. Vercauteren, “Aleatoric uncertainty estimation with test-time augmentation for medical image segmentation with convolutional neural networks,” Neurocomputing, vol. 335, pp. 34–45, Sep. 2019.
 12. W. Zhou and M. A. Anastasio, “Markov-Chain Monte Carlo approximation of the Ideal Observer using generative adversarial networks,” in Medical Imaging 2020: Image Perception, Observer Performance, and Technology Assessment, SPIE, Mar. 2020, pp. 46–52.
 13. Sajedi, Seyed Omid & Liang, Xiao. (2020). Uncertainty-assisted deep vision structural health monitoring. Computer-Aided Civil and Infrastructure Engineering. 36. 10.1111/mice.12580.
 14. K. Posch and J. Pilz, “Correlated Parameters to Accurately Measure Uncertainty in Deep Neural Networks,” IEEE Trans Neural Netw Learn Syst, vol. 32, no. 3, pp. 1037–1051, Mar. 2021.
-
-    a. _Supporting Work_: K. Posch, J. Steinbrener, and J. Pilz, “Variational Inference to Measure Model Uncertainty in Deep Neural Networks,” arXiv [stat.ML], Feb. 26, 2019. [Online]. Available: http://arxiv.org/abs/1902.10189
-
+    1. _Supporting Work_: K. Posch, J. Steinbrener, and J. Pilz, “Variational Inference to Measure Model Uncertainty in Deep Neural Networks,” arXiv [stat.ML], Feb. 26, 2019. [Online]. Available: http://arxiv.org/abs/1902.10189
 15. M. Subedar, R. Krishnan, P. L. Meyer, O. Tickoo, and J. Huang, “Uncertainty-aware audiovisual activity recognition using deep Bayesian variational inference,” in 2019 IEEE/CVF International Conference on Computer Vision (ICCV), IEEE, Oct. 2019. doi: 10.1109/iccv.2019.00640.
 16. V. Edupuganti, M. Mardani, S. Vasanawala, and J. Pauly, “Uncertainty Quantification in Deep MRI Reconstruction,” IEEE Trans. Med. Imaging, vol. 40, no. 1, pp. 239–250, Jan. 2021.
 17. Y. Gal, R. Islam, and Z. Ghahramani, “Deep Bayesian Active Learning with Image Data,” in Proceedings of the 34th International Conference on Machine Learning, D. Precup and Y. W. Teh, Eds., in Proceedings of Machine Learning Research, vol. 70. PMLR, 06--11 Aug 2017, pp. 1183–1192.
@@ -106,33 +114,27 @@ Note: This isn’t well-cited but demonstrates a way to combine two techniques. 
 
 #### UQ in DL Surveys
 - M. Abdar et al., “A review of uncertainty quantification in deep learning: Techniques, applications and challenges,” Inf. Fusion, vol. 76, pp. 243–297, Dec. 2021.
-
 - J. Gawlikowski et al., “A survey of uncertainty in deep neural networks,” Artificial Intelligence Review, Jul. 2023, doi: 10.1007/s10462-023-10562-9.
 
 #### Epistemic vs. Aleatoric Uncertainty
 - João Caldeira and Brian Nord 2021 Mach. Learn.: Sci. Technol. 2 015002. DOI 10.1088/2632-2153/aba6f3
-
 - Hüllermeier, E., Waegeman, W. “Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods.” Mach Learn 110, 457–506 (2021). https://doi.org/10.1007/s10994-021-05946-3
 Kendall, A., & Gal, Y. (2017). What uncertainties do we need in bayesian deep learning for computer vision?. Advances in neural information processing systems, 30. 
 
 #### Bayesian Deep Learning
 - L. V. Jospin, H. Laga, F. Boussaid, W. Buntine, and M. Bennamoun, “Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users,” IEEE Comput. Intell. Mag., vol. 17, no. 2, pp. 29–48, May 2022.
-
 - H. Wang and D.-Y. Yeung, “A Survey on Bayesian Deep Learning,” arXiv [stat.ML], Apr. 06, 2016. [Online]. Available: http://arxiv.org/abs/1604.01662
 
 #### Langevin Dynamics
 - M. Welling and Y. W. Teh, “Bayesian Learning via Stochastic Gradient Langevin Dynamics,” in Proceedings of the 28th International Conference on International Conference on Machine Learning, in ICML’11. Madison, WI, USA: Omnipress, 2011, pp. 681–688.
-
 - S. Thaler, G. Doehner, and J. Zavadlav, “Scalable Bayesian Uncertainty Quantification for Neural Network Potentials: Promise and Pitfalls,” J. Chem. Theory Comput., vol. 19, no. 14, pp. 4520–4532, Jul. 2023.
 
 #### Laplacian Methods
 - H. Ritter, A. Botev, and D. Barber, “A Scalable Laplace Approximation for Neural Networks,” in 6th International Conference on Learning Representations, ICLR 2018 - Conference Track Proceedings, in International Conference on Learning Representations (ICLR), vol. 6. Vancouver, Canada: International Conference on Representation Learning, 2018.
-
 - A. Kristiadi, M. Hein, and P. Hennig, “Learnable uncertainty under Laplace approximations,” in Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence, C. de Campos and M. H. Maathuis, Eds., in Proceedings of Machine Learning Research, vol. 161. PMLR, 27--30 Jul 2021, pp. 344–353.
 
 #### Variational Inference
 - M. I. Jordan, Z. Ghahramani, T. S. Jaakkola, and L. K. Saul, “An Introduction to Variational Methods for Graphical Models,” Mach. Learn., vol. 37, no. 2, pp. 183–233, Nov. 1999.
-
 - D. M. Blei, A. Kucukelbir, and J. D. McAuliffe, “Variational Inference: A Review for Statisticians,” arXiv [stat.CO], Jan. 04, 2016. [Online]. Available: http://arxiv.org/abs/1601.00670
 
 #### Mixture Density Networks for Structural Health Monitoring (paper by Dr. Harley)
