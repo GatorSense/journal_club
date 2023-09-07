@@ -119,7 +119,7 @@ Note: This isn’t well-cited but demonstrates a way to combine two techniques. 
 #### Epistemic vs. Aleatoric Uncertainty
 - João Caldeira and Brian Nord 2021 Mach. Learn.: Sci. Technol. 2 015002. DOI 10.1088/2632-2153/aba6f3
 - Hüllermeier, E., Waegeman, W. “Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods.” Mach Learn 110, 457–506 (2021). https://doi.org/10.1007/s10994-021-05946-3
-Kendall, A., & Gal, Y. (2017). What uncertainties do we need in bayesian deep learning for computer vision?. Advances in neural information processing systems, 30. 
+- Kendall, A., & Gal, Y. (2017). What uncertainties do we need in bayesian deep learning for computer vision?. Advances in neural information processing systems, 30. 
 
 #### Bayesian Deep Learning
 - L. V. Jospin, H. Laga, F. Boussaid, W. Buntine, and M. Bennamoun, “Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users,” IEEE Comput. Intell. Mag., vol. 17, no. 2, pp. 29–48, May 2022.
