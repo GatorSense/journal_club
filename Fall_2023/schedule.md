@@ -16,7 +16,7 @@
 |-------|------------|--------------|
 | 1     | 09/18/2023 | Ritesh Chowdhry |
 | 2     | 10/02/2023 | Austin Kreulach |
-| 3     | 10/16/2023 | Satya Krishna  |
-| 4     | 10/30/2023 | Aditya Dutt    |
-| 5     | 11/13/2023 | Ayesha Naikodi |
-| 6     | 11/27/2023 | Meilun and Ritesh |
+| 3     | 10/16/2023 | Canceled |
+| 4     | 10/30/2023 | Satya Krishna |
+| 5     | 11/13/2023 | Aditya Dutt |
+| 6     | 11/27/2023 | Ayesha Naikodi |
