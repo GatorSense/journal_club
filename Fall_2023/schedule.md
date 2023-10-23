@@ -8,7 +8,7 @@
 | 4     | 10/23/2023 | Erica Lindbeck| Jesse Weber  |
 | 5     | 11/06/2023 | Anna Hampton | Isaly Tappan |
 | 6     | 11/20/2023 | Khaled Hamad | Woohyun Eum  |
-| 7     | 12/04/2023 | Spencer Chang| Aditya Dutt  |
+| 7     | 12/04/2023 | Satya Krishna| Aditya Dutt  |
 
 # Gatorsense Journal Club
 
@@ -17,6 +17,6 @@
 | 1     | 09/18/2023 | Ritesh Chowdhry |
 | 2     | 10/02/2023 | Austin Kreulach |
 | 3     | 10/16/2023 | Canceled |
-| 4     | 10/30/2023 | Satya Krishna |
+| 4     | 10/30/2023 | Canceled |
 | 5     | 11/13/2023 | Aditya Dutt |
 | 6     | 11/27/2023 | Ayesha Naikodi |
