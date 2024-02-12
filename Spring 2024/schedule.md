@@ -1,13 +1,13 @@
-# Journal Club: Zare/Harley/Ruchkin Labs
+# Journal Club: Zare and Harley Labs
 
-| S.No. | Date       | Presenter #1 | Presenter #2 |
-|-------|------------|--------------|--------------|
-| 1     | 2/12/2024  | Spencer Chang| Jesse Weber  |
-| 2     | 2/26/2024  | Charlie Tran | Zhihui Tian  |
-| 3     | 3/11/2024  | Spring break              |
-| 4     | 3/25/2024  | Woohyun Eum  | Amanda Beck  |
-| 5     | 4/8/2024   | Anna Hampton | Isaly Tappan |
-| 6     | 4/22/2024  | Satya Krishna| Ayesha Naikodi|
+| S.No. | Date       | Presenter #1 | Presenter #2 | Presentation Links |
+|-------|------------|--------------|--------------|--------------------|
+| 1     | 2/12/2024  | Spencer Chang| Jesse Weber  | [Deformable Convolutions](https://uflorida-my.sharepoint.com/:p:/g/personal/chang_spencer_ufl_edu/EVmZVAsz-SZNumKvtgYPn94B88vRN2L3hspiziJYRIkM8A?e=mSxZcw)
+| 2     | 2/26/2024  | Charlie Tran | Zhihui Tian  | N/A  |
+| 3     | 3/11/2024  | Spring break              | N/A  |
+| 4     | 3/25/2024  | Woohyun Eum  | Amanda Beck  | N/A  |
+| 5     | 4/8/2024   | Anna Hampton | Isaly Tappan | N/A  |
+| 6     | 4/22/2024  | Satya Krishna| Ayesha Naikodi| N/A  |
 
 # Gatorsense Journal Club
 
