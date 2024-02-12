@@ -1,4 +1,4 @@
-# Journal Club: Zare and Harley Labs
+# Journal Club: Zare/Harley Labs
 
 | S.No. | Date       | Presenter #1 | Presenter #2 | Presentation Links |
 |-------|------------|--------------|--------------|--------------------|
