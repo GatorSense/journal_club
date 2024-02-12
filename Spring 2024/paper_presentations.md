@@ -10,7 +10,7 @@
 - **MLA**: 
     1. Paper 1: X. Zhu, H. Hu, S. Lin, and J. Dai, “Deformable ConvNets V2: More Deformable, Better Results,” in 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, Jun. 2019. doi: 10.1109/cvpr.2019.00953.  
     2. Supplementary (predecessor): J. Dai et al., “Deformable convolutional networks,” in Proceedings of the IEEE international conference on computer vision, 2017, pp. 764–773
-- **Link**: 
+- **Link**: [Deformable Convolutions](https://uflorida-my.sharepoint.com/:p:/g/personal/chang_spencer_ufl_edu/EVmZVAsz-SZNumKvtgYPn94B88vRN2L3hspiziJYRIkM8A?e=mSxZcw)
 
 #### February 26, 2024
 - **Presenter**: Charlie Tran and Zhihui Tian
