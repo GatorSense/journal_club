@@ -4,7 +4,7 @@
 |-------|------------|--------------|--------------|--------------------|
 | 1     | 2/12/2024  | Spencer Chang| Jesse Weber  | [Deformable Convolutions](https://uflorida-my.sharepoint.com/:p:/g/personal/chang_spencer_ufl_edu/EVmZVAsz-SZNumKvtgYPn94B88vRN2L3hspiziJYRIkM8A?e=mSxZcw)
 | 2     | 2/26/2024  | Charlie Tran | Zhihui Tian  | [Pixel-Adaptive Convolutional Neural Networks](https://uflorida-my.sharepoint.com/:p:/g/personal/riteshchowdhry_ufl_edu/EdUkY3_AdAhAqC5zxYTmveABUEKChqZvibBoZNMtxDf7BQ?e=Ce2u0h)  |
-| 3     | 3/11/2024  | Spring break              | N/A  |
+| 3     | 3/11/2024  | Spring break               N/A  |
 | 4     | 3/25/2024  | Woohyun Eum  | Amanda Beck  | N/A  |
 | 5     | 4/8/2024   | Anna Hampton | Isaly Tappan | N/A  |
 | 6     | 4/22/2024  | Satya Krishna| Ayesha Naikodi| N/A  |
