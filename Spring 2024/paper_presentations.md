@@ -14,9 +14,10 @@
 
 #### February 26, 2024
 - **Presenter**: Charlie Tran and Zhihui Tian
-- **Paper**: 
-- **MLA**: 
-- **Link**: 
+- **Paper**: [Pixel-Adaptive Convolutional Neural Networks](https://arxiv.org/abs/1904.05373)
+- **MLA**:
+    1. Su, Hang, et al. "Pixel-adaptive convolutional neural networks." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
+- **Link**: [Pixel Adaptive CNN](https://uflorida-my.sharepoint.com/:p:/g/personal/riteshchowdhry_ufl_edu/EdUkY3_AdAhAqC5zxYTmveABUEKChqZvibBoZNMtxDf7BQ?e=Ce2u0h)
 
 #### March 11, 2024
 - **Presenter**: Spring break
