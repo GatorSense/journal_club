@@ -13,9 +13,9 @@
 
 | S. No.| Date       | Presenter #1  |
 |-------|------------|---------------|
-| 1     | 02/05/2024 | Ritesh Chowdhry |
-| 2     | 03/04/2024 | Meilun Zhou     |
-| 3     | 3/18/2024  | Khaled Hamad    |
-| 4     | 4/1/2024   | Aditya Dutt     |
-| 5     | 4/15/2024  | Spencer Chang   |
-| 6     | 4/29/2024  | Matt or Yury    |
+| 1     | 2/5/2024 | Ritesh Chowdhry |
+| 2     | 3/18/2024 | Meilun Zhou     |
+| 3     | 4/1/2024  | Khaled Hamad    |
+| 4     | 4/15/2024  | Aditya Dutt     |
+| 5     | 4/29/2024  | Spencer Chang   |
+| 6     | 5/13/2024  | Matt or Yury    |
