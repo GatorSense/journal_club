@@ -54,7 +54,6 @@
 
 11. C. Xu et al., "SqueezeSegV3: Spatially-Adaptive Convolution for Efficient Point-Cloud Segmentation," arXiv [cs.CV], Apr. 03, 2020. [Online]. Available: [arXiv:2004.01803](http://arxiv.org/abs/2004.01803)
 
-
 ### Hyperspectral Data Applications
 
 12. Jia, Sen, et al. "Structure-Adaptive Convolutional Neural Network for Hyperspectral Image Classification." IEEE Transactions on Geoscience and Remote Sensing (2023).
@@ -66,8 +65,12 @@
 
 14. Chandran, Prashanth, et al. "Adaptive convolutions for structure-aware style transfer." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.
 
-15. R. Zhang, S. Tang, Y. Zhang, J. Li, and S. Yan, “Perspective-Adaptive Convolutions for Scene Parsing,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 42, no. 4, pp. 909–924, Apr. 2020.
+15. R. Zhang, S. Tang, Y. Zhang, J. Li, and S. Yan, "Perspective-Adaptive Convolutions for Scene Parsing," IEEE Trans. Pattern Anal. Mach. Intell., vol. 42, no. 4, pp. 909–924, Apr. 2020.
 
+### Summer 2024 - Additions
+The following has been briefly skimmed and may or may not be a good representative of "adaptive" convolutions.
+
+16. X. He, B. Wang, Y. Hu, J. Gao, Y. Sun, and B. Yin, "Parallelly Adaptive Graph Convolutional Clustering Model," IEEE Trans Neural Netw Learn Syst, vol. 35, no. 4, pp. 4451–4464, Apr. 2024.
 
 ## Additional Resources
 **These are not recommended for Journal Club presentations** but are provided for quick reference to background information that may aid the group in understanding related topics.
