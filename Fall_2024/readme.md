@@ -2,6 +2,8 @@
 
 Welcome to the Fall 2024 Journal Club directory! This directory is dedicated to organizing and sharing papers, meeting notes, and other important information for our journal club during the Fall 2024 semester. This semester, the journal club is hosted by Zare,  Harley, and Ruchkin Labs.
 
+## Topic: NN-Based State-Space Models
+
 ## Contents
 
 - [Papers file](papers.md)
@@ -12,7 +14,7 @@ Welcome to the Fall 2024 Journal Club directory! This directory is dedicated to 
 
 ## Papers
 
-In the [papers file](papers.md), you'll find a collection of papers discussed in our journal club meetings during Spring 2024. Each week, we'll upload the link/references to the paper that will be discussed during the upcoming meeting.
+In the [papers file](papers.md), you'll find a collection of papers discussed in our journal club meetings during Fall 2024. Each week, we'll upload the link/references to the paper that will be discussed during the upcoming meeting.
 
 ## Meeting Notes
 
@@ -22,7 +24,7 @@ There are currently no Meeting Notes available in this semester's documents.
 ## Resources
 
 There are currently no Resources available in this semester's documents.
-<!-- In the [resources](resources/) directory, you'll find helpful resources related to the topics discussed in our journal club during Spring 2024. This could include related research papers, articles, and links to relevant websites. -->
+<!-- In the [resources](resources/) directory, you'll find helpful resources related to the topics discussed in our journal club during Fall 2024. This could include related research papers, articles, and links to relevant websites. -->
 
 ## Schedule
 
