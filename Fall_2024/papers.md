@@ -11,11 +11,12 @@
     1. [Other Applications](#other-applications)
         1. [Tracking](#tracking)
         1. [Decision and Planning](#decision-and-planning)
+        1. [Language Modeling](#language-modeling)
 1. [Additional Resources](#additional-resources)
 
 ## Overall Comments
 - Deep State-Space Models (SSMs) have surged in popularity due to problems with Transformers.
-- Keywords:
+- Potential Keywords:
     - Structured state-space models
     - Scanning Paths
     - Long-range dependencies
@@ -39,26 +40,31 @@
 
 1. Rangapuram, Syama Sundar, et al. "Deep state space models for time series forecasting." Advances in neural information processing systems, 31, 2018. [Paper Link](https://proceedings.neurips.cc/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html)
 
+1. Mücke, Nikolaj T., Sander M. Bohté, and Cornelis W. Oosterlee. “The Deep Latent Space Particle Filter for Real-Time Data Assimilation with Uncertainty Quantification.” Scientific Reports 14, no. 1 (August 21, 2024): 19447. [Paper Link](https://doi.org/10.1038/s41598-024-69901-7)
+
 
 ### Applications - Autonomous Driving
-8. H. Wen, X. Chen, G. Papagiannis, C. Hu, and Y. Li, "End-to-end semi-supervised learning for differentiable particle filters," in 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China, 2021. [Paper Link](http://dx.doi.org/10.1109/ICRA48506.2021.9561889)
+9. H. Wen, X. Chen, G. Papagiannis, C. Hu, and Y. Li, "End-to-end semi-supervised learning for differentiable particle filters," in 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China, 2021. [Paper Link](http://dx.doi.org/10.1109/ICRA48506.2021.9561889)
 
+9. Cui H, Nguyen T, Chou F C, et al. Deep kinematic models for kinematically feasible vehicle trajectory predictions[C]//2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020: 10563-10569. [Paper Link](http://dx.doi.org/10.1109/icra40945.2020.9197560)
 
 ### Applications - Remote Sensing
 
-9. G. Fu, F. Xiong, J. Lu, and J. Zhou, "SSUMamba: Spatial-spectral selective state space model for hyperspectral image denoising," IEEE Trans. Geosci. Remote Sens., vol. PP, no. 99, pp. 1–1, 2024. [Paper Link](https://ieeexplore.ieee.org/document/10643108)
+11. G. Fu, F. Xiong, J. Lu, and J. Zhou, "SSUMamba: Spatial-spectral selective state space model for hyperspectral image denoising," IEEE Trans. Geosci. Remote Sens., vol. PP, no. 99, pp. 1–1, 2024. [Paper Link](https://ieeexplore.ieee.org/document/10643108)
 
-9. K. Chen, B. Chen, C. Liu, W. Li, Z. Zou, and Z. Shi, "RSMamba: Remote sensing image classification with state space model," IEEE Geosci. Remote Sens. Lett., vol. 21, pp. 1–5, 2024. [Paper Link](https://ieeexplore.ieee.org/document/10542538)
+11. K. Chen, B. Chen, C. Liu, W. Li, Z. Zou, and Z. Shi, "RSMamba: Remote sensing image classification with state space model," IEEE Geosci. Remote Sens. Lett., vol. 21, pp. 1–5, 2024. [Paper Link](https://ieeexplore.ieee.org/document/10542538)
 
-9. X. Ma, X. Zhang, and M.-O. Pun, "RS^3mamba: Visual state space model for remote sensing image semantic segmentation," IEEE Geosci. Remote Sens. Lett., vol. 21, pp. 1–5, 2024. [Paper Link](https://ieeexplore.ieee.org/document/10556777)
+11. X. Ma, X. Zhang, and M.-O. Pun, "RS^3mamba: Visual state space model for remote sensing image semantic segmentation," IEEE Geosci. Remote Sens. Lett., vol. 21, pp. 1–5, 2024. [Paper Link](https://ieeexplore.ieee.org/document/10556777)
     - ***Please present the RSMamba paper first if it hasn’t been presented already.***
 
-9. Y. Wang, W. Yuan, F. Xie, and B. Lin, "ESatSR: Enhancing super-resolution for satellite remote sensing images with state space model and spatial context," Remote Sens. (Basel), vol. 16, no. 11, p. 1956, May 2024. [Paper Link](https://www.mdpi.com/2072-4292/16/11/1956)
+11. Y. Wang, W. Yuan, F. Xie, and B. Lin, "ESatSR: Enhancing super-resolution for satellite remote sensing images with state space model and spatial context," Remote Sens. (Basel), vol. 16, no. 11, p. 1956, May 2024. [Paper Link](https://www.mdpi.com/2072-4292/16/11/1956)
 
 
 ### Applications - Physics-Informed ML
 
-13. Florian Arnold, Rudibert King, "State–space modeling for control based on physics-informed neural networks," Engineering Applications of Artificial Intelligence, vol. 101, ISSN 0952-1976, 2021. [Paper Link](https://doi.org/10.1016/j.engappai.2021.104195)
+15. Florian Arnold, Rudibert King, "State–space modeling for control based on physics-informed neural networks," Engineering Applications of Artificial Intelligence, vol. 101, ISSN 0952-1976, 2021. [Paper Link](https://doi.org/10.1016/j.engappai.2021.104195)
+
+15. Chrosniak J, Ning J, Behl M. Deep Dynamics: Vehicle Dynamics Modeling with a Physics-Constrained Neural Network for Autonomous Racing[J]. IEEE Robotics and Automation Letters, 2024. [Paper Link](https://arxiv.org/abs/2312.04374)
 
 ### Other Applications
 
@@ -79,6 +85,12 @@
 18. Y. Han and P. Gmytrasiewicz, "IPOMDP-net: A deep neural network for partially observable multi-agent planning using interactive POMDPs," Proc. Conf. AAAI Artif. Intell., vol. 33, no. 01, pp. 6062–6069, Jul. 2019. [Paper Link](http://dx.doi.org/10.1609/aaai.v33i01.33016062)
 
 18. C. Stöckl, Y. Yang, and W. Maass, "Local prediction-learning in high-dimensional spaces enables neural networks to plan," Nat. Commun., vol. 15, no. 1, p. 2344, Mar. 2024. [Paper Link](http://dx.doi.org/10.1038/s41467-024-46586-0)
+
+18. Gelada C, Kumar S, Buckman J, et al. Deepmdp: Learning continuous latent space models for representation learning//International conference on machine learning. PMLR, 2019: 2170-2179. [Paper Link](https://proceedings.mlr.press/v97/gelada19a/gelada19a.pdf)
+
+#### Language Modeling
+21. Liu T Y, Trager M, Achille A, et al. Meaning representations from trajectories in autoregressive models. arXiv preprint arXiv:2310.18348, 2023. [Paper Link](https://arxiv.org/abs/2310.18348)
+    - Accepted to ICLR'24
 
 ## Additional Resources
 Please do not present these for Journal Club presentations but use them for quick reference to background information that may aid the group in understanding related topics.
