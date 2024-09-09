@@ -7,8 +7,6 @@ Welcome to the Fall 2024 Journal Club directory! This directory is dedicated to 
 ## Contents
 
 - [Papers file](papers.md)
-<!-- - [Meeting Notes](MeetingNotes/)
-- [Resources](resources/) -->
 - [Schedule file](schedule.md)
 - [Readme](readme.md)
 
