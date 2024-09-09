@@ -1,38 +1,52 @@
 # Journal Club Meetings
 
-## 2024
+## Fall 2024
 
-#### February 12, 2024
-- **Presenter**: Spencer Chang and Jesse Weber
+#### September 09, 2024
+- **Presenter**: Erica Lindbeck and	Woohyun Eum
 - **Paper**: 
-    1. [Deformable ConvNets V2: More Deformable, Better Results](https://ieeexplore.ieee.org/document/8953797), 
-    2. [Supplementary Paper: Deformable Convolutional Networks](https://ieeexplore.ieee.org/document/8237351)
+    1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396)
 - **MLA**: 
-    1. Paper 1: X. Zhu, H. Hu, S. Lin, and J. Dai, “Deformable ConvNets V2: More Deformable, Better Results,” in 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, Jun. 2019. doi: 10.1109/cvpr.2019.00953.  
-    2. Supplementary (predecessor): J. Dai et al., “Deformable convolutional networks,” in Proceedings of the IEEE international conference on computer vision, 2017, pp. 764–773
-- **Link**: [Deformable Convolutions](https://uflorida-my.sharepoint.com/:p:/g/personal/chang_spencer_ufl_edu/EVmZVAsz-SZNumKvtgYPn94B88vRN2L3hspiziJYRIkM8A?e=mSxZcw)
+    1. Gu, Albert, Karan Goel, and Christopher Ré. "Efficiently modeling long sequences with structured state spaces." arXiv preprint arXiv:2111.00396 (2021).
 
-#### February 26, 2024
-- **Presenter**: Charlie Tran and Zhihui Tian
-- **Paper**: [Pixel-Adaptive Convolutional Neural Networks](https://arxiv.org/abs/1904.05373)
+#### September 23, 2024
+- **Presenter**: Isaly Tappan and Anna Hampton
+- **Paper**: 
 - **MLA**:
-    1. Su, Hang, et al. "Pixel-adaptive convolutional neural networks." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2019.
-- **Link**: [Pixel Adaptive CNN](https://uflorida-my.sharepoint.com/:p:/g/personal/riteshchowdhry_ufl_edu/EdUkY3_AdAhAqC5zxYTmveABUEKChqZvibBoZNMtxDf7BQ?e=Ce2u0h)
+    1. 
+- **PPT Link**: 
 
-#### March 25, 2024
-- **Presenter**: Woohyun Eum and Amanda Beck
-- **Paper**: [AGConv: Adaptive Graph Convolution on 3D Point Clouds](https://arxiv.org/pdf/2206.04665.pdf)
-- **MLA**: Wei, Mingqiang, et al. "AGConv: Adaptive graph convolution on 3D point clouds." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023).
+#### October 07, 2024
+- **Presenter**: Yuang Geng and	Jordan Peper
+- **Paper**: 
+- **MLA**:
+    1. 
 - **Link**: 
 
-#### April 8, 2024
-- **Presenter**: Anna Hampton and Isaly Tappan
-- **Paper**: [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://ieeexplore.ieee.org/document/10203769)
-- **MLA**: Wang, Wenhai, et al. "Internimage: Exploring large-scale vision foundation models with deformable convolutions." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.
+#### October 21, 2024
+- **Presenter**: Meilun Zhou and Zhihui Tian
+- **Paper**: 
+- **MLA**:
+    1. 
 - **Link**: 
 
-#### April 22, 2024
-- **Presenter**: Satya Krishna and Ayesha Naikodi
-- **Paper**: [Adaptive Convolutions for Structure-Aware Style Transfer](https://openaccess.thecvf.com/content/CVPR2021/papers/Chandran_Adaptive_Convolutions_for_Structure-Aware_Style_Transfer_CVPR_2021_paper.pdf)
-- **MLA**: Chandran, Prashanth, et al. "Adaptive convolutions for structure-aware style transfer." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.
+#### November 04, 2024
+- **Presenter**: Satya Krishna and Jesse Weber
+- **Paper**: 
+- **MLA**:
+    1. 
+- **Link**:
+
+#### November 18, 2024
+- **Presenter**: Spencer Chang and Zhenjiang Mao
+- **Paper**: 
+- **MLA**:
+    1. 
+- **Link**:
+
+#### December 02, 2024
+- **Presenter**: Aditya Dutt and Ritesh Chowdhry
+- **Paper**: 
+- **MLA**:
+    1. 
 - **Link**: 
