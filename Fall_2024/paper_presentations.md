@@ -11,7 +11,7 @@
 - **Presenter**: Isaly Tappan and Anna Hampton
 - **Paper**: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 - **MLA**: Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023).
-- **PPT Link**: 
+- **PPT Link**: [Mamba](https://uflorida.sharepoint.com/:p:/t/GatorSense/EU-KzlDsdTRFsURGsUt8XfwBcsWw_YBT1DTCshb6e40aWg?e=pNxoYr)
 
 #### October 07, 2024
 Canceled
