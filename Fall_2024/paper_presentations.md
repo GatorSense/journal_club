@@ -21,7 +21,7 @@ Canceled
 - **Presenter**: Yuang Geng and	Jordan Peper
 - **Paper**: [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html)
 - **MLA**: Rangapuram, Syama Sundar, et al. "Deep state space models for time series forecasting." Advances in neural information processing systems 31 (2018).
-- **PPT Link**: N/A
+- **PPT Link**: Download from here: [PPT File](presentations/2024_Fall_JC_Yuang_Jordan.pptx)
 
 #### November 04, 2024
 - **Presenter**: Spencer Chang and Zhenjiang Mao
