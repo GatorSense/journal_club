@@ -7,7 +7,7 @@
 - **Paper**: [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/pdf/2111.00396)
 - **MLA**: Gu, Albert, Karan Goel, and Christopher Ré. "Efficiently modeling long sequences with structured state spaces." arXiv preprint arXiv:2111.00396 (2021).
 - **PPT Link**: Download from here: [PPT File](presentations/2024_Fall_JC_Erica_Woohyun_S4.pptx)
-- 
+
 #### September 23, 2024
 - **Presenter**: Isaly Tappan and Anna Hampton
 - **Paper**: [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
@@ -29,7 +29,7 @@ Canceled
 - **MLA**: Revach, Guy, et al. "KalmanNet: Neural network aided Kalman filtering for partially known dynamics." IEEE Transactions on Signal Processing 70 (2022): 1532-1547.
 - **Link**:
 - **PPT Link**: Download from here: [PPT File](presentations/2024_Fall_JC_Spencer_Zhenjiang.pptx)
-- 
+
 #### November 18, 2024
 Canceled
 
