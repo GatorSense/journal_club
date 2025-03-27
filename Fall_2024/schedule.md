@@ -7,8 +7,8 @@
 | 3     | ~10/7/2024~  | Canceled
 | 4     | 10/21/2024 | Yuang Geng | Jordan Peper 
 | 5     | 11/4/2024  | Spencer Chang  | Zhenjiang Mao 
-| 6     | 11/18/2024 | Satya Krishna | Jesse Weber 
-| 7     | 12/2/2024  | Meilun Zhou | Zhihui Tian 
+| 6     | ~11/18/2024~ | Canceled
+| 7     | 12/2/2024 | Ritesh Chowdhry | Satya Krishna
 
 
 # Gatorsense Journal Club
